@@ -4,6 +4,4 @@
 
 浏览器打开 ```index.html```
 
-
-
-![image-20220315172234690](/Users/chuanchuan/Library/Application Support/typora-user-images/image-20220315172234690.png)
+![](https://s2.loli.net/2022/03/15/RnAIeQtr6YF7iC5.png)
